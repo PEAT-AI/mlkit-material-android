@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92941491046",
+    "firebase_url": "https://objectdetectionplayground.firebaseio.com",
+    "project_id": "objectdetectionplayground",
+    "storage_bucket": "objectdetectionplayground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92941491046:android:58ec2fbcd72ed85f4546a7",
+        "android_client_info": {
+          "package_name": "com.google.firebase.ml.md"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92941491046-vs9fas563djtocbqceoa4o0db1afqlnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTz1Co7OL4Y2oQ9zY-3dCEunozmublB1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92941491046-vs9fas563djtocbqceoa4o0db1afqlnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
